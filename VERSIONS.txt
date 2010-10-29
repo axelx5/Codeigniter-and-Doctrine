@@ -1,0 +1,2 @@
+Codeigniter 1.7.2
+Doctrine 1.2.3
